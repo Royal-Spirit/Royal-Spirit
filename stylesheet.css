@@ -62,7 +62,6 @@ p
 .row:nth-child(1) 
 {
     border-style: groove;
-    border-width: 100%;
     width:100%;
     border-color: #f9c91b;
     height:200px;
