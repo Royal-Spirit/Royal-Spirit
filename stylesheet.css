@@ -63,6 +63,7 @@ p
 {
     border-style: groove;
     border-width: 100%;
+    width:100%;
     border-color: #f9c91b;
     height:200px;
     margin-bottom: 35px;
