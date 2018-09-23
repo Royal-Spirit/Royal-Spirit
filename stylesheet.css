@@ -90,3 +90,9 @@ p
   color:white;
 }
 
+@media only screen and (max-width:650px) {
+  h1{
+    font-size:10px; 
+  }
+}
+
