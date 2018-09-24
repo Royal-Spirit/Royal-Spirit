@@ -23,7 +23,7 @@ p
     font-family: 'Alegreya SC','Oswald',sans-serif;
     background-color:white;
     border:2px solid black;
-    background-size:100%;
+    background-width:100%;
     margin:0 auto;
 }
 
