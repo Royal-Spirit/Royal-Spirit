@@ -54,7 +54,6 @@ p
 .row {
   position:relative;
   display: inline-block;
-  width: 100%;
   height: 140px;
   border:7px solid black;
   
