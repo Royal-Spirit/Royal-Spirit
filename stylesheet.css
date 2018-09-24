@@ -8,7 +8,7 @@ h1
     text-align:center;
     color:white;
     font-size:110px;
-    font-family: 'Alegreya SC','Oswald',sans-serif;
+    font-family: 'Alegreya SC','Oswald', 'Bree Serif', 'Alfa Slab One', sans-serif;
     margin-top:20px;
 }
 
@@ -18,7 +18,7 @@ p
     color:brown;
     font-weight:bold;
     font-size:60px;
-    font-family: 'Alegreya SC','Oswald',sans-serif;
+    font-family: 'Alegreya SC','Oswald', 'Bree Serif', 'Alfa Slab One', sans-serif;
     background-color:white;
     border:2px solid black;
 }
