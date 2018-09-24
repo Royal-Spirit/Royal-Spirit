@@ -23,8 +23,6 @@ p
     font-family: 'Alegreya SC','Oswald',sans-serif;
     background-color:white;
     border:2px solid black;
-    background-width:100%;
-    margin:0 auto;
 }
 
 
@@ -54,17 +52,20 @@ p
 .row {
   position:relative;
   display: inline-block;
+  width: 100%;
   height: 140px;
-  width:100%;
+  color:magenta;
   border:7px solid black;
   
 }
  
 .row:nth-child(1) 
 {
+    border-style: groove;
+    border-width: 35px;
+    border-color: #f9c91b;
     height:200px;
     margin-bottom: 35px;
-    border: 35px groove #f9c91b;
 }
 
 
