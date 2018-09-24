@@ -10,18 +10,24 @@ h1
     font-size:110px;
     font-family: 'Alegreya SC','Oswald', 'Bree Serif', 'Alfa Slab One', sans-serif;
     margin-top:20px;
+    margin-bottom: 10px;
 }
 
-p
+
+#catchphrase
 {
-    text-align: center;
+    width:100%;
     color:brown;
-    font-weight:bold;
-    font-size:60px;
+    background-color: white;
+    font-size:50px;
+    text-align: center;
+    margin-right:0;
     font-family: 'Alegreya SC','Oswald', 'Bree Serif', 'Alfa Slab One', sans-serif;
-    background-color:white;
-    border:2px solid black;
+    border:5px solid black;
+    margin-bottom: 25px;
+    
 }
+
 
 
 #Seniors
@@ -85,4 +91,6 @@ p
   font-family:'Pacifico', serif;
   color:white;
 }
+
+
 
